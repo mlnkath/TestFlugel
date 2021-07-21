@@ -1,6 +1,7 @@
 # TestFlugel
 
-//---------------------------------------------------------------------------------------------------------------------------------------------------// //Author: Katherine Molina //---------------------------------------------------------------------------------------------------------------------------------------------------//
+FLUGEL TEST
+Author: Katherine Molina
 
 The content of this repository allows you to create a AWS S3 bucket and upload two files named test1.txt and test2.txt.
 
